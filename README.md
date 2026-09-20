@@ -2,7 +2,8 @@
 
 ## PhDAI 732 – Fundamentals of AI-Enabled Systems
 
-This project develops a collaborative filtering recommendation system using the Amazon Reviews Office Products 5-core dataset.
+This project develops a collaborative filtering recommendation system using the
+Amazon Reviews Office Products 5-core dataset.
 
 ### Group Members
 - Raja Sankeerth Reddy Cholleti
